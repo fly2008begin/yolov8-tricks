@@ -6,7 +6,9 @@
 
 
 ##
-本项目从https://github.com/chaizwj/yolov8-tricks中copy而来，删除了datasets文件夹方便网络环境不支持的同学下载。不会随着原项目更新。
+本项目从
+https://github.com/chaizwj/yolov8-tricks
+中copy而来，删除了datasets文件夹方便网络环境不支持的同学下载。不会随着原项目更新。
 下面是原始项目的介绍。感谢原始作者的共享。
 
 
